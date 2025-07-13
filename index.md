@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "Welcome"
+title: ""Hi, I'm Gabriele and I'm a first-year Computer Science student at Sapienza University.""
 ---
-Benvenuto nel mio sito,
 
-Mi chiamo Gabriele Polastri, ho 27 anni e frequento il primo anno di Informatica presso La Sapienza
