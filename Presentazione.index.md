@@ -1,4 +1,1 @@
-Ciao,
-
-sono Gabriele Polastri, ho 27 anni e sono al primo anno di Informatica presso La Sapienza. 
-
+"Hi, I'm Gabriele and I'm a first-year Computer Science student at Sapienza University."
