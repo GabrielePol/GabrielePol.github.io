@@ -1,11 +1,8 @@
 title: "Gabriele Polastri"
 description: "Hi, I'm Gabriele and I'm a first-year Computer Science student at Sapienza University."
-# _config.yml
 
-# ... (le altre tue impostazioni come title, description, ecc.)
 
 remote_theme: wowthemes/jekyll-theme-affiliate
 
-# Questa è la sezione da copiare esattamente così
 plugins:
   - jekyll-remote-theme
