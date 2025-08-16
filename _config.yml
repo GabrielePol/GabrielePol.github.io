@@ -3,13 +3,14 @@ title: Gabriele Polastri
 author: Gabriele Polastri
 description: >-
   Blog about my projects and career
-  
+
 remote_theme: "daattali/beautiful-jekyll"
 
+avatar: /assets/images/tuo-avatar.jpg
 
-avatar: /assets/images/tuo-avatar.jpg # Percorso a un'immagine per il tuo profilo (opzionale)
+social-network-links:
+  github: gabrielepol
 
- github: gabrielepol 
 
 navbar-links:
   About Me: "/aboutme"
