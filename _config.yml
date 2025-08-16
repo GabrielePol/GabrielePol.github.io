@@ -1,8 +1,14 @@
-title: "Gabriele Polastri"
-description: "Hi, I'm Gabriele and I'm a first-year Computer Science student at Sapienza University."
+title: Gabriele Polastri
+author: 
+description: >- Blog about my projects/career
+
+remote_theme: "daattali/beautiful-jekyll"
 
 
-remote_theme: wowthemesnet/affiliate-jekyll-theme
+avatar: /assets/images/tuo-avatar.jpg # Percorso a un'immagine per il tuo profilo (opzionale)
 
-plugins:
-  - jekyll-remote-theme
+ github: gabrielepol 
+
+navbar-links:
+  About Me: "/aboutme"
+  Progetti: "/projects"
