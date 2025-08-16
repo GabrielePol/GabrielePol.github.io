@@ -1,4 +1,5 @@
 title: "Gabriele Polastri"
 description: "Hi, I'm Gabriele and I'm a first-year Computer Science student at Sapienza University."
 remote_theme: wowthemes/jekyll-theme-affiliate
-plugins: -jekyll-remote-theme
+plugins: 
+-jekyll-remote-theme
