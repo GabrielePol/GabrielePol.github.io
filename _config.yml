@@ -11,6 +11,6 @@ avatar: /assets/images/tuo-avatar.jpg
 social-network-links:
   github: gabrielepol
 
-
+navbar-links:
   About Me: "/aboutme"
   Progetti: "/projects"
