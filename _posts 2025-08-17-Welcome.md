@@ -1,8 +1,0 @@
----
-layout: post
-date: 2025-08-17 23:15:00 +0200
-
-title: Welcome!
----
-Hi! This is my first post, and I'm very excited to share my journey with you!
-
